@@ -1,4 +1,4 @@
-# Code-mixed-Marathi-English-Dataset
+# Code-mixed Marathi-English-Dataset
 **About Dataset**-
 A novel gold standard code-mixed Marathi-English dataset with hate/offensive and non-hate classes used for sentiment detection task. It has total 4978 YouTube comments of which 2528  are non-hate and 2450 are hate/offensive comments. 
 
