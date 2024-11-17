@@ -12,3 +12,7 @@ We have chosen YouTube videos for data collection. Users gave their opinions or 
 **License**-
 The dataset must be used for research and academic purpose and have to cite the following paper-
 Joshi, P. and Pathak, V., 2024, March. Development of Code-Mixed Marathi-English Dataset for Hate Speech Detection. In 2024 International Conference on Emerging Smart Computing and Informatics (ESCI) (pp. 1-5). IEEE.
+
+**Contact us**
+Email id : sayprasadajoshi@gmail.com, pathak.vmpathak.varsha@gmail.com
+
